@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="multiple_items_select">Chọn nhiều</string>
+    <string name="options_menu">Trình đơn</string>
+    <string name="add_item">Thêm</string>
+    <string name="item_edit">Sửa</string>
+    <string name="item_remove">Xóa</string>
+    <string name="log_out">Đăng xuất</string>
+</resources>

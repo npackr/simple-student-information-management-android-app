@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_username">Tài khoản</string>
+    <string name="login_password">Mật khẩu</string>
+    <string name="login_sign_in">Đăng nhập</string>
+    <string name="login_demo_user">1851062658</string>
+    <string name="login_demo_user_password">123</string>
+    <string name="login_sign_out">Đăng xuất</string>
+</resources>
